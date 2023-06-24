@@ -1,4 +1,4 @@
-# Application with train schedule
+# todo_DB
 In this task, I created a server that can use a get/post/delete/put request.
 You can create/update/delete/getOne or getAll elements.
 
